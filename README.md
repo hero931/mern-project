@@ -1,2 +1,2 @@
-# mern-project
-Task list app using MERN stack
+# MERN tasks list
+!Task list app using MERN stack
