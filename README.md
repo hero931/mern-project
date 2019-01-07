@@ -1,4 +1,4 @@
-# MERN tasks list
+# MERN task list
 Task list app using MERN stack
 
 # Quick Start
