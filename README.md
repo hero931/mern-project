@@ -1,5 +1,6 @@
 # MERN task list
-#Task list app using MERN stack
+Task list app using MERN stack
+
 
 
 # Screenshots
